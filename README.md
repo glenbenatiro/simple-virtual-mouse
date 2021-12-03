@@ -10,5 +10,7 @@ The program needs the following to run:
 - Numpy
 - OpenCV
 
+The program was developed using PyCharm IDE.
+
 # How to Run
 Make sure you have a single webcam connected to your system, then run SimpleVirtualMouse.py
