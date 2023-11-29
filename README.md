@@ -1,8 +1,7 @@
 # simple-virtual-mouse
+A simple virtual mouse program that allows the user to move the mouse cursor and execute left clicks using the index and middle fingers, and a webcam. Made possible through MediaPipe Hands.
 
-A simple virtual mouse program that allows the user to move the mouse cursor and execute left clicks using his index and middle fingers, and a webcam. Made possible through MediaPipe Hands.
-
-# Dependencies
+### Dependencies
 The program needs the following to run:
 - Python version 3.8.0 (doesn't work with newer Python versions due to dependency issues)
 - MediaPipe
@@ -12,5 +11,5 @@ The program needs the following to run:
 
 The program was developed using PyCharm IDE.
 
-# How to Run
-Make sure you have a single webcam connected to your system, then run SimpleVirtualMouse.py
+### How to Run
+Connect a webcam to your system and run SimpleVirtualMouse.py
